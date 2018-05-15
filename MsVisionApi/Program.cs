@@ -9,7 +9,7 @@ namespace MsVisionApi
 	// Microsoft Azure Cognitive Services: Computer Vision API - Pluralsight: Eduardo Freitas
     class Program
     {
-		const string subscriptionKey = "c45933fd0a3e4c4a9a3006160125b7ef";
+		const string subscriptionKey = "<key>";
         const string uriBase = "https://westus.api.cognitive.microsoft.com/vision/v1.0/analyze";
 
         static void Main(string[] args)
